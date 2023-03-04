@@ -4,6 +4,7 @@ import NotFound from "./views/NotFound";
 import Home from "./views/Home";
 import Contact from "./views/Contact";
 
+
 function App() {
   return (
     <div className="App">
